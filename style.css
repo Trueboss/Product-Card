@@ -55,7 +55,7 @@ h1{
 }
 
 .img-side{
-    background-image: url('images/image-product-desktop.jpg');
+    background-image: url('image-product-desktop.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -130,7 +130,7 @@ i{
         height: 90%;
     }
     .img-side{
-        background-image: url('/images/image-product-mobile.jpg');
+        background-image: url('image-product-mobile.jpg');
         border-radius: 15px 15px 0 0 ;
     }
     .info{
